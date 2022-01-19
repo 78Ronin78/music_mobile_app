@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Сегодня",
+        "tracks": false,
+        "dateTime" : "today"
+    },
+    {
+        "title": "Завтра",
+        "tracks": false,
+        "dateTime" : "tomorrow"
+    },
+    {
+        "title": "Выходные",
+        "subtitle": "Эти",
+        "tracks": false,
+        "dateTime" : "this_weekend"
+    },
+    {
+        "title": "Выходные",
+        "subtitle": "Следующие",
+        "tracks": false,
+        "dateTime" : "next_weekend"
+    },
+    {
+        "title": "Неделя",
+        "subtitle": "Эта",
+        "tracks": false,
+        "dateTime" : "this_week"
+    },
+    {
+        "title": "Неделя",
+        "subtitle": "Следующая",
+        "tracks": false,
+        "dateTime" : "next_week"
+    },
+    {
+        "title": "",
+        "tracks": false,
+        "dateTime" : "this_month"
+    },
+    {
+        "title": "",
+        "tracks": false,
+        "dateTime" : "next_month"
+    },
+    {
+        "title": "Избранное",
+        "subtitle": "Прошедшее",
+        "firstDate": "",
+        "secondDate": "",
+        "tracks": false,
+        "dateTime" : "past_follow"
+    },
+    {
+        "title": "Избранное",
+        "subtitle": "Будущее",
+        "firstDate": "",
+        "secondDate": "",
+        "tracks": false,
+        "dateTime" : "future_follow"
+    }
+]
